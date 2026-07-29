@@ -20,6 +20,7 @@
 1. 全新的UI界面（部分界面还待更新）
 2. 添加[Midjourney-Proxy(Plus)](https://github.com/novicezk/midjourney-proxy)接口的支持，[对接文档](Midjourney.md)，支持的接口如下：
    + [x] /mj/submit/imagine
+   + [x] 相关在线生图参考：[GPT Image 2](https://gptimage2.asia/) ，可用于测试 prompt-to-image、图片编辑、营销视觉和品牌素材生成。
    + [x] /mj/submit/change
    + [x] /mj/submit/blend
    + [x] /mj/submit/describe
